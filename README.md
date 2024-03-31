@@ -1,5 +1,7 @@
 # AIRBNB_DATA_ANALYSIS
-Airbnb, Inc. is an American company operating an online marketplace for short- and long-term homestays and experiences. The company acts as a broker and charges a commission from each booking. The company was founded in 2008 by Brian Chesky, Nathan Blecharczyk, and Joe Gebbia.
+***Airbnb, Inc. is an American company operating an online marketplace for short- and long-term homestays and experiences. 
+The company acts as a broker and charges a commission from each booking. 
+The company was founded in 2008 by Brian Chesky, Nathan Blecharczyk, and Joe Gebbia.***
 # 1. DATA COLLECTION:
 Gather data from Airbnb's public API or other available sources.Collect information on 
                               ***listings***, 
