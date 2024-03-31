@@ -8,7 +8,7 @@ Gather data from Airbnb's public API or other available sources.Collect informat
                               ***pricing***,
                               ***location data***.
 # 2.  DATA CLEANING AND PREPROCESSING:
-Clean and preprocess the data to ***handle missing values***, ***outliers***, and ensure ***ata quality***.Convert ***data types***, ***handle duplicates***, and ***standardize formats***.
+Clean and preprocess the data to ***handle missing values***, ***outliers***, and ensure ***data quality***.Convert ***data types***, ***handle duplicates***, and ***standardize formats***.
 # 3. EXPLORATORY DATA ANALYSIS (EDA):
 Conduct exploratory data analysis to understand the distribution and patterns in the data.Explore relationships between variables and identify potential insights.
 # 4. VISUALISATION:
