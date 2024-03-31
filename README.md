@@ -17,3 +17,32 @@ Conduct exploratory data analysis to understand the distribution and patterns in
 Create visualizations to represent key metrics and trends.Use charts, graphs, and maps to convey information effectively.Consider using tools like Matplotlib, Seaborn, or Plotly for visualizations.
 # 5. GEOSPATIAL ANALYSIS:
 Utilize geospatial analysis to understand the geographical distribution of listings.Map out popular areas, analyze neighborhood characteristics, and visualize pricing variations.
+
+# AIRBNB DATA STRUCTURES
+{"_id": "unique_listing_id",
+ 	 "name": "listing_title",
+ 	 "description": "listing_description",
+  	"host_id": "unique_host_id",
+ 	 "host_name": "host_name",
+ 	 "neighbourhood": "neighbourhood_name",
+ 	 "location": {
+"type": "Point",
+   			 "coordinates": [longitude, latitude]
+ 			 },
+  	"price": "listing_price",
+ 	 "availability": {
+   			 "start_date": "YYYY-MM-DD",
+   			 "end_date": "YYYY-MM-DD"
+  },
+  	"amenities": ["amenity_1", "amenity_2", ...],
+  	"rating": "average_rating",
+ 	 "reviews": [
+   {
+     			 "reviewer_id": "unique_reviewer_id",
+      			"reviewer_name": "reviewer_name",
+      			"comment": "review_comment",
+     			 "rating": "review_rating"
+   			 }, ...
+ 			 ], ...
+   }
+
